@@ -84,12 +84,10 @@ nav {
 }
 
 .main-nav a:hover {
-  padding: 1rem;
   color: black;
   border: 1px transparent white;
   border-radius: 5px;
   background:#f1f1f1;
-  padding: 0.25rem;
 }
 
 .active {
